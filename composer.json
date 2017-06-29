@@ -1,0 +1,13 @@
+{
+    "name": "dynamo/phpinterface",
+    "type": "project",
+    "authors": [
+        {
+            "name": "sachinsinghshekhawat",
+            "email": "sachinsinghshekhawat@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.30"
+    }
+}
